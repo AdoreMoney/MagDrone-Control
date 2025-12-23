@@ -1,5 +1,6 @@
 <img width="1280" height="1398" alt="fig1" src="https://github.com/user-attachments/assets/0f05c5c0-1bc6-4278-bcdb-b864c0cff1a1" />  <br />
 
+The parameters of the MagDrone are all hidden as 0.0. You can fill in the aerodynamic parameters of your own fixed-wing UAV for training.
 ## Environmental configuration:
 install miniconda (https://www.anaconda.com/docs/getting-started/miniconda/main)  
 `conda create -n magdrone python=3.10`  
